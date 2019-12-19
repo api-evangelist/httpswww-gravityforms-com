@@ -1,0 +1,60 @@
+{
+    "name": "https:\/\/www.gravityforms.com",
+    "description": "WordPress forms are easy with Gravity Forms, the most trusted WordPress form plugin. WordPress contact forms, email marketing, and e-Commerce with PayPal are a breeze with Gravity Forms. Beginner to advanced, we guarantee you'll see why the WordPress c...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28428-www-gravityforms-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/httpswww-gravityforms-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "https:\/\/www.gravityforms.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28428-www-gravityforms-com.jpg",
+            "humanURL": "https:\/\/www.gravityforms.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/httpswww-gravityforms-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.gravityforms.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rocketgenius"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.gravityforms.com\/category\/extending-gravity-forms\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.gravityforms.com\/pricing\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/www.gravityforms.com\/support\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gravityforms"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.gravityforms.com"
+        }
+    ]
+}
